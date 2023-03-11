@@ -10,16 +10,8 @@
   </div> 
   <br>
   <div align="center">
-
-  ![Snake animation](https://github.com/HaouatKarim/karimhaouat/blob/output/github-contribution-grid-snake.svg)
-
-  </div>
-  <br>
-  <div style="display: inline_block">
+<div style="display: inline_block">
     <p align="center">
-      <img align="center" alt="Adobe Illustrator Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-      <img align="center" alt="Adobe Photoshop Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-      <img align="center" alt="Figma Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
       <img align="center" alt="HTML5 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="CSS3 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Bootstrap Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
@@ -29,10 +21,17 @@
       <img align="center" alt="Nodejs Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="Laravel Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
     </p>
-    <p>
+  </div>
+
+  ![Snake animation](https://github.com/HaouatKarim/karimhaouat/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
+  <br>
+  <div style="display: inline_block">
+    <p align="center">
+    <img align="center" alt="Figma Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img alt="Adobe Illustrator Logo" height="30" src="https://aleen42.github.io/badges/src/illustrator.svg">
     <img alt="Adobe Photoshop Logo" height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">
-    <img alt="Figma Logo" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     </p>
   </div>
 </a> 
