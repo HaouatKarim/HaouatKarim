@@ -29,6 +29,11 @@
       <img align="center" alt="Nodejs Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="Laravel Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
     </p>
+    <p>
+    <img alt="Adobe Illustrator Logo" height="30" src="https://aleen42.github.io/badges/src/illustrator.svg">
+    <img alt="Adobe Photoshop Logo" height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">
+    <img alt="Figma Logo" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    </p>
   </div>
 </a> 
 <br>  
