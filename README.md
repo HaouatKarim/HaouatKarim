@@ -6,9 +6,8 @@
   <div align="center">
     <br>
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HaouatKarim&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaouatKarim&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <!-- <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaouatKarim&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/> -->
   </div> 
-    
   <br>
   <div align="center">
 
@@ -16,7 +15,6 @@
 
   </div>
   <br>
-  
   <div style="display: inline_block">
     <p align="center">
       <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,17 +33,13 @@
     </p>
   </div>
 </a> 
-
-<br>
-<br>
-  
+<br>  
 <div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/haouatkarim/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
 </div>
-
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=64ffda&height=120&section=footer"/>
 </a>
