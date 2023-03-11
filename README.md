@@ -3,8 +3,15 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64ffda&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Karim;I'm+from+Morocco;I'm+a+Full+Stack+Designer;Be+Welcome!+ツ)
 
-  <div align="center">
+  <div align="center" style="display: inline_block">
     <br>
+  <div style="display: inline_block">
+    <p align="center">
+    <img alt="Figma Logo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img alt="Adobe Illustrator Logo" height="30" src="https://aleen42.github.io/badges/src/illustrator.svg">
+    <img alt="Adobe Photoshop Logo" height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">
+    </p>
+   </div>
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HaouatKarim&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
     <!-- <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaouatKarim&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/> -->
   </div> 
@@ -28,11 +35,7 @@
   </div>
   <br>
   <div style="display: inline_block">
-    <p align="center">
-    <img align="center" alt="Figma Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img alt="Adobe Illustrator Logo" height="30" src="https://aleen42.github.io/badges/src/illustrator.svg">
-    <img alt="Adobe Photoshop Logo" height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">
-    </p>
+
   </div>
 </a> 
 <br>  
