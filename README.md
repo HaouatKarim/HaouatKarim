@@ -36,7 +36,6 @@
   </div>
   <br>
   <div style="display: inline_block">
-
   </div>
 </a> 
 <br>  
