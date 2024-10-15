@@ -13,7 +13,7 @@
     </p>
    </div>
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HaouatKarim&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-    <!-- <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaouatKarim&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/> -->
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaouatKarim&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </div> 
   <br>
   <div align="center">
@@ -26,12 +26,10 @@
       <img align="center" alt="React Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img align="center" alt="MySQL Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
       <img align="center" alt="Nodejs Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-      <img align="center" alt="Laravel Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon…4310c06e04d9c0/icons/laravel/laravel-original.svg">
+      <img align="center" alt="Laravel Logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg">
       <img align="center" alt="Flutter Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     </p>
   </div>
-    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=CheatSheetSeries)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HAOUATKARIM&repo=create-react-app-offline)](https://github.com/Baronsindo/create-react-app-offline)
   </div>
   <br>
   <div style="display: inline_block">
