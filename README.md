@@ -22,17 +22,16 @@
       <img align="center" alt="HTML5 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="CSS3 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Bootstrap Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-      <img align="center" alt="Tailwind Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+      <img align="center" alt="Tailwind Logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
       <img align="center" alt="React Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img align="center" alt="MySQL Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
       <img align="center" alt="Nodejs Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-      <img align="center" alt="Laravel Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+      <img align="center" alt="Laravel Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon…4310c06e04d9c0/icons/laravel/laravel-original.svg">
       <img align="center" alt="Flutter Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     </p>
   </div>
-
-  ![Snake animation](https://github.com/HaouatKarim/karimhaouat/blob/output/github-contribution-grid-snake.svg)
-
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=CheatSheetSeries)](https://github.com/OWASP/CheatSheetSeries)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-mastg)](https://github.com/OWASP/owasp-mastg)
   </div>
   <br>
   <div style="display: inline_block">
