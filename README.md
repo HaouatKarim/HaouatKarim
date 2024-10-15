@@ -30,8 +30,8 @@
       <img align="center" alt="Flutter Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     </p>
   </div>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=CheatSheetSeries)](https://github.com/OWASP/CheatSheetSeries)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-mastg)](https://github.com/OWASP/owasp-mastg)
+    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=CheatSheetSeries)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HAOUATKARIM&repo=create-react-app-offline)](https://github.com/Baronsindo/create-react-app-offline)
   </div>
   <br>
   <div style="display: inline_block">
